@@ -1,0 +1,36 @@
+html, body
+{
+    height: 100%;
+    width: 100%;
+}
+.first-colum {
+	background-color: blue;
+	width: 33%;
+	height: 100%;
+	display: inline-block;
+}
+.second-colum {
+	background-color: green;
+	width: 33%;
+	height: 100%;
+	display: inline-block;
+}
+.third-colum {
+	background-color: yellow;
+	width: 33%;
+	height: 100%;
+	display: inline-block; 
+	
+	}
+
+.image {
+    
+	width: 100%;
+	height: 30%;
+	position: relative;
+	
+
+    background-size: contain;
+    background-image: url('second.png');
+    position:absolute; bottom:0;
+}
