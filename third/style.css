@@ -1,0 +1,52 @@
+html, body
+{
+	margin: 0;
+    height: 100%;
+    width: 100%;
+}
+.logo{
+	background-color: #9398E6;
+	width: 5%;
+	height: 70%;
+	margin: 10px;
+}
+.colum {
+	width: 100%;
+	height: 15%;
+}
+.header {
+	background-color: #EBEBEB;
+	width: 100%;
+	height: 15%;
+	float: left;
+}
+.head {
+	background-color: white;
+	width: 100%;
+	height: 25%;
+	float: left;
+}
+.second-colum {
+	background-color: #9398E6;
+	width: 100%;
+	height: 15%;
+	float: left;
+}
+.third-colum {
+	background-color: #93E6BC;
+	width: 100%;
+	height: 15%;
+	float: left;
+}
+.forth-colum {
+	background-color: #C5E88E;
+	width: 100%;
+	height: 15%;
+	float: left;
+}
+.fith-colum {
+	background-color: #F2FC26;
+	width: 100%;
+	height: 15%;
+	float: left;
+}
