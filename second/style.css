@@ -1,26 +1,26 @@
 html, body
 {
+	margin: 0;
     height: 100%;
     width: 100%;
 }
 .first-colum {
-	background-color: blue;
-	width: 33%;
+	background-color: #53ABE6;
+	width: 33.3%;
 	height: 100%;
-	display: inline-block;
+	float: left;
 }
 .second-colum {
-	background-color: green;
-	width: 33%;
+	background-color: #67F0BE;
+	width: 33.3%;
 	height: 100%;
-	display: inline-block;
+	float: left;
 }
 .third-colum {
-	background-color: yellow;
-	width: 33%;
+	background-color: #A7F2B1;
+	width: 33.3%;
 	height: 100%;
-	display: inline-block; 
-	
+	float: left;
 	}
 
 .image {
