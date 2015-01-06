@@ -1,0 +1,39 @@
+html, body
+{
+    height: 100%;
+    width: 100%;
+}
+.header {
+	background-color: rgb(88,88,88);
+	height: 20%;
+}
+.sidebar {
+	background-color: rgb(224,224,224);
+	height: 100%;
+	width: 5%;
+	display: inline-block;
+	float: left;
+
+	
+}
+.body {
+	background-color: #F5F7F0;
+	height: 80%;
+	width: 90%;
+	display: inline-block;
+
+}
+.sidebar2 {
+	background-color: rgb(224,224,224);
+	height: 100%;
+	width: 5%;
+	float: right;
+
+}
+.footer {
+	background-color: rgb(88,88,88);
+	height: 20%;
+	width: 90%;
+	display: inline-block;
+
+}
